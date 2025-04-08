@@ -4,7 +4,7 @@
 
 > 请先安装 NuGet 包
 ```bash
-dotnet add package Microsoft.Extensions.ServiceDiscovery.AgileConfig
+dotnet add package SH.Microsoft.Extensions.ServiceDiscovery.AgileConfig
 ```
 
 ## 配置文件
