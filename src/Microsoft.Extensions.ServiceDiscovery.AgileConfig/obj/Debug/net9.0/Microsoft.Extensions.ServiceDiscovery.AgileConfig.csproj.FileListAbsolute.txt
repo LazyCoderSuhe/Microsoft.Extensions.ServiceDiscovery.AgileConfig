@@ -1,0 +1,13 @@
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\bin\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.deps.json
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\bin\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.dll
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\bin\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.pdb
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.csproj.AssemblyReference.cache
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.AssemblyInfoInputs.cache
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.AssemblyInfo.cs
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.csproj.CoreCompileInputs.cache
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.sourcelink.json
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.dll
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\refint\Microsoft.Extensions.ServiceDiscovery.AgileConfig.dll
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\Microsoft.Extensions.ServiceDiscovery.AgileConfig.pdb
+C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\obj\Debug\net9.0\ref\Microsoft.Extensions.ServiceDiscovery.AgileConfig.dll

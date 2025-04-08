@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SH.Microsoft.Extensions.ServiceDiscovery.AgileConfig</id>
+    <version>1.0.0</version>
+    <authors>SH.SH.Microsoft.Extensions.ServiceDiscovery.AgileConfig</authors>
+    <icon>icon.jpg</icon>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" commit="19b9983de9084359b2f1a5f851911fcd80c24d86" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="AgileConfig.Client" version="1.7.6" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="9.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.ServiceDiscovery" version="9.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\bin\Release\net9.0\SH.Microsoft.Extensions.ServiceDiscovery.AgileConfig.dll" target="lib\net9.0\SH.Microsoft.Extensions.ServiceDiscovery.AgileConfig.dll" />
+    <file src="C:\codes\github\Repos\Microsoft.Extensions.ServiceDiscovery.AgileConfig\README.md" target="\README.md" />
+    <file src="C:\Users\suhe0\Pictures\icon.jpg" target="\icon.jpg" />
+  </files>
+</package>
