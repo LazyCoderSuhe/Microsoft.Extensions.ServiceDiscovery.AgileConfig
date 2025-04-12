@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Microsoft.Extensions.ServiceDiscovery.AgileConfig\SH.Microsoft.Extensions.ServiceDiscovery.AgileConfig.csproj" />
+    <ProjectReference Include="..\..\src\SH.APIProblemDetails\SH.APIProblemDetails.csproj" />
   </ItemGroup>
 
 </Project>
